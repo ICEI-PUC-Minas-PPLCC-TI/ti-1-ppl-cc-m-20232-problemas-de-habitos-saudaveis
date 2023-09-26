@@ -59,17 +59,26 @@ eu sou sofia, e nos últimos meses, tenho feito algumas mudanças em minha vida.
 Os requisitos de um projeto são classificados em dois grupos:
 
 - Requistos Funcionais
+
   . Definição de metas claras;
-  . Plano de exercícios;
-  . Dieta balanceada;
-  . Rotina de sono saudável;
-  . Hidratação adequada;
+
+   . Plano de exercícios;
+
+   . Dieta balanceada;
+
+   . Rotina de sono saudável;
+
+   . Hidratação adequada;
 
 - Requisitos Não Funcionais
-  . Motivação pessoal;
-  . Consistência;
-  . Disciplina;
-  . Paciência;
+
+   . Motivação pessoal;
+
+   . Consistência;
+
+   . Disciplina;
+
+   . Paciência;
 
 ## User Flow
 
