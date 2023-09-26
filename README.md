@@ -7,9 +7,9 @@ Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
 
 * Miguel santiago 
 * Davi Edmundo
-* Matheus Pimenta
+* Mateus Pimenta
 * Pedro Drummond
-
+* Rodrigo Coelho
 ## Professores responsáveis
 
 * Rommel Vieira Carneiro
