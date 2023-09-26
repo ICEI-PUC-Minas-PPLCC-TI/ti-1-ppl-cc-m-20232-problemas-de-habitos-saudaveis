@@ -37,6 +37,8 @@ Como foi dito, temos como objetivo incentivar as pessoas a entender os benefíci
 ## Justificativa
 
 Uma pesquisa aponta que 52% dos brasileiros não realizam atividade física, mostrando que o problema é real e precisa de uma solução. Como reflexo desse problema, outra pesquisa conta que 20% da população do país é classificada com obesidade, um dos diversos problemas que a falta de hábitos saudáveis causa.
+
+Trazendo mais dados para entendermos o porque de buscar uma solução, 95% dos brasileiros acreditam que atividades físicas e "comer limpo" influenciam diretamente na saúde física e mental, entretanto, mesmo assim na prática, isso não altera o comportamento das pessoas no cotidiano.
 ## Público-Alvo
 
 Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
