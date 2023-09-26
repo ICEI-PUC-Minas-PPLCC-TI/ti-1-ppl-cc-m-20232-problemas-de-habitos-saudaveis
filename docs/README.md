@@ -14,16 +14,21 @@ A documentação do projeto inclui as seguintes seções:
 
 O template para o site é estruturado e permite que a equipe evolua a documentação do projeto à medida que avance no desenvolvimento.
 
-# Orientações gerais
+# Introdução
 
-Esta seção traz explicações breves sobre o conjunto de artefatos que precisam ser incluídos na documentação do projeto com uma conjunto de links importantes para que se entenda como criar cada coisa. 
+  Hábitos saudáveis são essenciais para o bem-estar e saúde das pessoas.  A prática de atividade física e uma dieta balanceada geram diversos benefícios e precisa ser incentivada.
+Entre os benefícios estão: O aumento da longevidade e qualidade de vida na terceira idade, comprovada por estudos. A melhora da saúde mental pela regulação e liberação de hormônios 
+que melhoram o humor e que reduzem o estresse. O controle de peso e consequente fortalecimento do sistema imunológico, dentre outros.
+
+Mesmo com essa grande importância, muitas pessoas acabam levando um estilo de vida nada saudável e adquirem diversos malefícios a longo prazo, o que é um grande problema para o indivíduo. 
+
+Tendo isso em vista, torna-se útil tomarmos medidas para garantir que as pessoas busquem ao máximo um estilo de vida que permita uma vida saudável. Nosso projeto vai buscar contornar o 
+problema dos indivíduos para tentar atrair as pessoas a buscar esses benefícios.
+
 
 ## Problema
 
-Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, não é a hora de comentar sobre a aplicação. Descreva também o contexto em que essa aplicação será usada, se houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
+Um estilo de vida saudável engloba, principalmente, duas coisas: atividades físicas e dienta balanceada. No caso do primeiro fator, muitas pessoas não realizam nenhum exercício por falta de tempo, achar que não é importante ou até por preguiça. Dito isso, o principal obstáculo é fazer com que esse pensamento dos indivíduos mude completamente.
 **Links Úteis**:
 
 - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
