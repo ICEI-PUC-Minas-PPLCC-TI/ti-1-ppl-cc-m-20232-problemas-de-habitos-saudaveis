@@ -60,9 +60,8 @@ Adicione informações sobre o público-alvo por meio de uma descrição textual
 - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
 
 ## Personas
-
-Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que você deve ser enumerar e descrever precisamente e de forma personalizada todos os principais envolvidos com a solução almeja.
-
+![Captura de Tela (32)](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20232-problemas-de-habitos-saudaveis/assets/145139540/70550a1a-f4aa-4a2e-acbc-2720808ab700)
+![Captura de Tela (34)](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20232-problemas-de-habitos-saudaveis/assets/145139540/88b4d0d5-d8db-4607-aa1b-fb5b43ccc8b6)
 **Links Úteis**:
 
 - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
