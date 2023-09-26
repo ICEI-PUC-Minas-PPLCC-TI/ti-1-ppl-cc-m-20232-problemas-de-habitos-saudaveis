@@ -36,6 +36,9 @@ Como foi dito, temos como objetivo incentivar as pessoas a entender os benefíci
 
 ## Justificativa
 
+De acordo com uma pesquisa, 52% dso brasileiros não praticam nenhum tipo de atividade física e 22% praticam desregularmente. Como efeito disso, temos um índice de 20% de obseidade e 34% de sobrepeso, que são apenas dois dos malefícios resultantes da falta de hábitos saudáveis.
+
+Para mostrar como devemos solucionar esse problema, 95% dos brasileiros veem dieta balanceada e atividades físicas como cruciais para a saúde física e mental e o bem-estar. Entretanto, isso não se reflete nos praticantes, por isso cabe ao projeto impactar o máximo possível nas pessoas para termos cada vez mais uma sociedade saudavel.
 
 
 
