@@ -38,12 +38,7 @@ Como foi dito, temos como objetivo incentivar as pessoas a entender os benefíci
 
 Nosso projeto busca alcançar pessoas que, no geral, possuem maus hábitos alimentares e não praticam atividades físicas regularmente. Mais especificamente podemos citar pessoas acima do peso, seja por algum tipo de doença, comodidade, ou até mesmo aquelas que usam a comida como válvula de escape e em rotinas apertadas. Fechando um pouco mais esse ciclo, o ideal é achar pessoas que desejam ter uma vida saudável conciliada com trabalho ou outras ocupações.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, ou diagramas de personas, mapa de stakeholders, ou como o grupo achar mais conveniente.
 
-**Links Úteis**:
-
-- [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-- [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
 
 ## Personas
 ![Captura de Tela (32)](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20232-problemas-de-habitos-saudaveis/assets/145139540/70550a1a-f4aa-4a2e-acbc-2720808ab700)
