@@ -53,12 +53,7 @@ Adicione informações sobre o público-alvo por meio de uma descrição textual
 ## Personas
 ![Captura de Tela (32)](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20232-problemas-de-habitos-saudaveis/assets/145139540/70550a1a-f4aa-4a2e-acbc-2720808ab700)
 ![Captura de Tela (34)](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20232-problemas-de-habitos-saudaveis/assets/145139540/88b4d0d5-d8db-4607-aa1b-fb5b43ccc8b6)
-**Links Úteis**:
 
-- [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-- [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-- [Rock Content](https://rockcontent.com/blog/personas/)
-- [Criar personas (Hotmart)](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
 
 ## Histórias de Usuários
 
