@@ -52,21 +52,24 @@ Nosso projeto busca alcançar pessoas que, no geral, possuem maus hábitos alime
 
 ![Captura de Tela (36)](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20232-problemas-de-habitos-saudaveis/assets/145139540/349a5cb5-2039-4c8f-a7c1-ccdf973c0106)
 
+eu sou sofia, e nos últimos meses, tenho feito algumas mudanças em minha vida. Comecei a acordar cedo para correr, adotei uma alimentação mais equilibrada e pratico meditação diariamente. Esses hábitos saudáveis transformaram minha energia e disposição. Estou incrivelmente satisfeita com essa nova rotina que me trouxe mais saúde e bem-estar.
+
 ## Requisitos
 
 Os requisitos de um projeto são classificados em dois grupos:
 
-- [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
-  correspondem a uma funcionalidade que deve estar presente na plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade, desempenho, confiabilidade, segurança ou outro (ex: suporte a dispositivos iOS e Android).
+- Requistos Funcionais
+  . Definição de metas claras;
+  . Plano de exercícios;
+  . Dieta balanceada;
+  . Rotina de sono saudável;
+  . Hidratação adequada;
 
-Lembre-se que cada requisito deve corresponder à uma e somente uma característica alvo da sua solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
-**Links Úteis**:
-
-- [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-- [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+- Requisitos Não Funcionais
+  . Motivação pessoal;
+  . Consistência;
+  . Disciplina;
+  . Paciência;
 
 ## User Flow
 
