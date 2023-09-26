@@ -33,20 +33,10 @@ Um estilo de vida saudável engloba, principalmente, duas coisas: atividades fí
 ## Objetivos
 
 Como foi dito, temos como objetivo incentivar as pessoas a entender os benefícios de uma vida saudável e adotar esses hábitos no cotidiano, atendendo à necessidade da pessoa, independente do seu objetivo com esses hábitos(seja emagrecer, ganhar músculos ou melhorar a condição e o bem-estar..
-**Links Úteis**:
-
-- [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-**Links Úteis**:
-
-- [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-
+Uma pesquisa aponta que 52% dos brasileiros não realizam atividade física, mostrando que o problema é real e precisa de uma solução. Como reflexo desse problema, outra pesquisa conta que 20% da população do país é classificada com obesidade, um dos diversos problemas que a falta de hábitos saudáveis causa.
 ## Público-Alvo
 
 Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
