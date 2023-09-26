@@ -29,16 +29,10 @@ problema dos indivíduos para tentar atrair as pessoas a buscar esses benefício
 ## Problema
 
 Um estilo de vida saudável engloba, principalmente, duas coisas: atividades físicas e dienta balanceada. No caso do primeiro fator, muitas pessoas não realizam nenhum exercício por falta de tempo, achar que não é importante ou até por preguiça. Dito isso, o principal obstáculo é fazer com que esse pensamento dos indivíduos mude completamente.
-**Links Úteis**:
-
-- [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-- [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-- [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
-
+Como foi dito, temos como objetivo incentivar as pessoas a entender os benefícios de uma vida saudável e adotar esses hábitos no cotidiano, atendendo à necessidade da pessoa, independente do seu objetivo com esses hábitos(seja emagrecer, ganhar músculos ou melhorar a condição e o bem-estar..
 **Links Úteis**:
 
 - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
